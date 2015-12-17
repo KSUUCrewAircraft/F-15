@@ -747,6 +747,10 @@ SW_reticle_Blinker = aircraft.light.new("sim/model/f15/lighting/hud-sw-reticle-s
 setprop("sim/model/f15/lighting/hud-sw-reticle-switch/enabled", 1);
 
 
+#mp messaging 
+setprop("sim/model/f15/systems/armament/mp-messaging", true);
+
+
 
 
 
